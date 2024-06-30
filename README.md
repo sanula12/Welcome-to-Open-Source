@@ -1709,6 +1709,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Shubham Raut</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/sanula12">
+                    <img src="https://avatars.githubusercontent.com/u/139029661?v=4" width="100px;" alt="Sanula Kariyapperuma"/>
+                    <br />
+                    <sub><b>Sanula Kariyapperuma</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
